@@ -39,6 +39,10 @@ export {
 } from "./TrafficLayer";
 
 export {
+  default as TransitLayer,
+} from "./TransitLayer";
+
+export {
   default as DirectionsRenderer,
 } from "./DirectionsRenderer";
 
